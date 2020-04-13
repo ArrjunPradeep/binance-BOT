@@ -1,0 +1,27 @@
+{
+  "name": "bott",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+  },
+  "description": "BOT for Minimal Trading in Binance Platform",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun-Pradeep/Binance-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun-Pradeep/Binance-BOT/issues"
+  },
+  "homepage": "https://github.com/Arjun-Pradeep/Binance-BOT#readme"
+}
